@@ -1,6 +1,6 @@
 # Music Enterprise Works York
 
-Music Enterprise Works York (MEWY) is responsible for launching and hosting two commercial projects that have grown out of research conducted by the Music Computing and Psychology Lab in the Department of Music at University of York:
+Music Enterprise Works York (pronounced "mew York") is responsible for launching and hosting two commercial projects that have grown out of research conducted by the Music Computing and Psychology Lab in the Department of Music at University of York:
 
 * DiscoverMusic
 * Unmix+
