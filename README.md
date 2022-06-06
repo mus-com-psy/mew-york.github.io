@@ -5,4 +5,4 @@ Music Enterprise Works York (pronounced "mew York") is responsible for launching
 * Discover Music
 * Unmix+
 
-This site also links to repositories of code for people interested in music/audio programming, which have been developed through meetings of the Music Coding Collective in the Department of Music at University of York.
+This site also links to code repositories that may be of interest to people looking to get into music/audio programming. These repos have been developed via meetings of the Music Coding Collective in the Department of Music at University of York.
