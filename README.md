@@ -1,5 +1,3 @@
-# Music Enterprise Works York
-
 Music Enterprise Works York (pronounced "mew York") is responsible for launching and hosting two commercial projects that have grown out of research conducted in the [Music Computing and Psychology Lab](https://tomcollinsresearch.net), [Dept. of Music](https://www.york.ac.uk/music/) at [University of York](https://www.york.ac.uk/):
 
 * [Discover Music](https://discover-music.glitch.me);
