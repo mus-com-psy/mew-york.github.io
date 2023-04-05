@@ -3,6 +3,11 @@ Music Enterprise Works York (pronounced "mew York") is responsible for launching
 * [Discover Music](https://discover-music.glitch.me);
 * [Unmix+](https://unmix.glitch.me).
 
+We design and build web-based systems to support research networks and initiatives, such as
+
+* [Music Cognition Matters](https://mus-cog-matters.glitch.me/);
+* [Sounds, Voices, and Technology Network](https://sovot.glitch.me/).
+
 This site also links to code repositories that may be of interest to people looking to get into music/audio programming. These repos have been developed via meetings of the [Music Coding Collective](https://tomcollinsresearch.net/recently.html#mcc), [Dept. of Music]() at [University of York](https://www.york.ac.uk/music/):
 
 * [Collective hacks](https://github.com/mew-york/collective-hacks);
